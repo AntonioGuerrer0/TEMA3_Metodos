@@ -4,7 +4,6 @@ package codigos_1;
 import java.util.LinkedList;
 import java.util.Queue;
 
-
 public class NewClass {
     public static void main(String[] args) {
         Queue<String> cola = new LinkedList<>();
