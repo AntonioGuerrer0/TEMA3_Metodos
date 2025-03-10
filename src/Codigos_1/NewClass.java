@@ -15,7 +15,6 @@ public class NewClass {
         buscarElemento(cola, "estas");
         buscarElemento(cola, "bien");
     }
-
     public static void agregarElemento(Queue<String> cola, String elemento) {
         cola.add(elemento);
         System.out.println("Elemento \"" + elemento + "\" agregado a la cola.");
