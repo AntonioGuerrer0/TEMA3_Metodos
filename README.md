@@ -16,34 +16,6 @@
 <li><a href="#competencia-asignatura">Competencia de la Asignatura</a></li>
 
 <li>
-<a href="#errores-numericos"> TEMA 1: Errores Numéricos</a>
-
-<ul>
-<li><a href="#error-redondeo">Error de redondeo</a></li>
-<li><a href="#perdida-precision">Pérdida de precisión</a></li>
-<li><a href="#comparacion-directa">Comparación directa</a></li>
-<li><a href="#cancelacion-resta">Cancelación de resta</a></li>
-<li><a href="#desbordamiento">Desbordamiento</a></li>
-<li><a href="#conversion-estrecha">Conversión estrecha</a></li>
-<li><a href="#error-absoluto">Error absoluto</a></li>
-<li><a href="#error-relativo">Error relativo</a></li>
-</ul>
-
-</li>
-
-<li>
-<a href="#sistemas-ecuaciones"> TEMA 2: Sistemas de Ecuaciones</a>
-
-<ul>
-<li><a href="#eliminacion-gaussiana">Eliminación Gaussiana</a></li>
-<li><a href="#gauss-jordan">Gauss-Jordan</a></li>
-<li><a href="#gauss-seidel">Gauss-Seidel</a></li>
-<li><a href="#jacobi">Método de Jacobi</a></li>
-</ul>
-
-</li>
-
-<li>
 <a href="#metodos-integracion">TEMA 3: Métodos de Integración</a>
 
 <ul>
